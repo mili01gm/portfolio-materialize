@@ -1,3 +1,13 @@
-body, html {
+body,
+html {
 	background-color: #EDEDED !important;
+}
+
+.uppercase {
+	text-transform: uppercase !important;
+}
+
+.col .s4 {
+	height: auto;
+	padding: 0;
 }
