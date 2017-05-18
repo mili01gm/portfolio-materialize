@@ -1,10 +1,11 @@
 # Portfolio con Materialize
 
+Crear una web-portafolio utilizando MATERIALIZE.
 *Proyecto grupal Sprint3/Lección35 - Bootcamp Laboratoria*
 
-Crear una web-portafolio utilizando MATERIALIZE.
+### La web
 
-###La web
+![Portfolio-Home](assets/img/read-me/header.png)
 
 
 ----------------------------------------------------------------------------------
