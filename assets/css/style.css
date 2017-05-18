@@ -48,6 +48,14 @@ html {
     margin-bottom: 80px;
 }
 
+#about-me h2 {
+    font-size: 2em;
+}
+
+#about-me h4 {
+    font-size: 1.2em;
+}
+ 
 .s-div {
     width: 4%;
 }
