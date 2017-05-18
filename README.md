@@ -1,6 +1,8 @@
 # Portfolio con Materialize
-Proyecto grupal Sprint3/Lección35 - Bootcamp Laboratoria
-----------------------------------------------------------------------------------
+
+*Proyecto grupal Sprint3/Lección35 - Bootcamp Laboratoria*
+
+
 
 
 ----------------------------------------------------------------------------------
