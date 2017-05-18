@@ -32,6 +32,35 @@ html {
 .header-bg h1 {
     font-size: 4em;
     color: #fff;
-    margin: 0;
     margin-bottom: 3%;
+}
+
+
+/*
+    ==========
+    ABOUT ME
+    ==========
+*/
+
+#about-me {
+    padding-top: 70px;
+    margin-bottom: 60px;
+}
+
+.s-div {
+    width: 4%;
+}
+
+.margin-bot-40 {
+    margin-bottom: 40px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 10%;
+}
+
+.no-margin {
+    margin: 0;
 }
