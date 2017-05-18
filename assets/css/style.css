@@ -8,6 +8,6 @@ html {
 }
 
 .col .s4 {
-	height: auto;
+	margin: 0;
 	padding: 0;
 }
