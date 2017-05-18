@@ -32,10 +32,51 @@ html {
 .header-bg h1 {
     font-size: 4em;
     color: #fff;
-    margin: 0;
     margin-bottom: 3%;
 }
 
+
+/*
+    ==========
+    ABOUT ME
+    ==========
+*/
+
+#about-me,
+#portfolio {
+    padding-top: 50px;
+    margin-bottom: 80px;
+}
+
+#about-me h2 {
+    font-size: 2em;
+}
+
+#about-me h4 {
+    font-size: 1.2em;
+}
+ 
+.s-div {
+    width: 4%;
+}
+
+.margin-bot-40 {
+    margin-bottom: 40px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 10%;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
 
 /*
     ==========
@@ -43,14 +84,6 @@ html {
     ==========
 */
 
-section {
-    margin: 5% auto !important;
-}
 .uppercase {
-	text-transform: uppercase !important;
-
-}
-.col .s4 {
-    margin: 0;
-    padding: 0;
+    text-transform: uppercase !important;
 }

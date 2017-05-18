@@ -1,10 +1,13 @@
 # Portfolio con Materialize
 
-*Proyecto grupal Sprint3/Lección35 - Bootcamp Laboratoria*
+###### Proyecto grupal Sprint3/Lección35 - Bootcamp Laboratoria
 
-Crear una web-portafolio utilizando MATERIALIZE.
+Crear una web-portafolio utilizando las clases del framework **_Materialize_**
 
-###La web
+### La web
+
+![Portfolio-Home](assets/img/read-me/header.png)
+![Portfolio-Gallery](assets/img/read-me/gallery.png)
 
 
 ----------------------------------------------------------------------------------
