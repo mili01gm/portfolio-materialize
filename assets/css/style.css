@@ -22,6 +22,7 @@ html {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    box-shadow: 1px 0 3px 1px rgba(0, 0, 0, 0.4);
     height: 100vh;
 }
 
@@ -31,25 +32,32 @@ html {
     margin-bottom: 3%;
 }
 
+.header-bg button {
+    background-color: #fff;
+    font-size: 1.2em;
+    border: 0;
+    padding: 5px 10px;
+}
+
 
 /*ABOUT ME*/
 
-#about-me,
-#portfolio {
-    padding-top: 50px;
-    margin-bottom: 80px;
+#about-me {
+    padding-top: 100px;
+    margin-bottom: 120px;
 }
 
-#about-me h2 {
-    font-size: 2em;
+#about-me h2,
+#portfolio h2 {
+    font-size: 1.8em;
 }
 
 #about-me h4 {
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 .s-div {
-    width: 4%;
+    width: 45px;
 }
 
 .margin-bot-40 {
@@ -59,7 +67,7 @@ html {
 .avatar {
     width: 80px;
     height: 80px;
-    margin: 0 auto 10%;
+    margin: 0 auto 5%;
 }
 
 .no-margin {
@@ -70,15 +78,25 @@ html {
     padding: 0;
 }
 
-/*Gallery*/
-#portfolio {
-    padding-bottom: 50px;
-}
 
-.white {
-    background-color: #fff !important;
+/*Gallery*/
+
+#portfolio {
+    padding-top: 70px;
+    padding-bottom: 90px;
 }
 
 .uppercase {
     text-transform: uppercase !important;
+}
+
+@media screen and (max-width: 465px) {
+    .header-bg {
+        background-image: url(../img/bg.jpg);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: 1500px;
+        box-shadow: 1px 0 3px 1px rgba(0, 0, 0, 0.4);
+        height: 100vh;
+    }
 }
