@@ -15,11 +15,7 @@ html {
 }
 
 
-/*
-    ==========
-    HEADER
-    ==========
-*/
+/* HEADER*/
 
 .header-bg {
     background-image: url(../img/bg.jpg);
@@ -36,11 +32,7 @@ html {
 }
 
 
-/*
-    ==========
-    ABOUT ME
-    ==========
-*/
+/*ABOUT ME*/
 
 #about-me,
 #portfolio {
@@ -55,7 +47,7 @@ html {
 #about-me h4 {
     font-size: 1.2em;
 }
- 
+
 .s-div {
     width: 4%;
 }
@@ -78,12 +70,14 @@ html {
     padding: 0;
 }
 
+/*Gallery*/
+#portfolio {
+    padding-bottom: 50px;
+}
 
-/*
-    ==========
-    GALLERY
-    ==========
-*/
+.white {
+    background-color: #fff !important;
+}
 
 .uppercase {
     text-transform: uppercase !important;
